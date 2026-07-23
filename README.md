@@ -22,4 +22,4 @@
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=tj-guruvelli&theme=radical&hide_border=true&layout=donut&cache_seconds=86400)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tj-guruvelli&icon=5&color=0)](https://visitcount.itsvg.in)
+
