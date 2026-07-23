@@ -17,7 +17,9 @@
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tj-guruvelli&theme=radical&hide_border=true&layout=compact&cache_seconds=86400)
+![](https://github-stats-extended.vercel.app/api?username=tj-guruvelli&show_icons=true&theme=radical&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&cache_seconds=86400)
+
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=tj-guruvelli&theme=radical&hide_border=true&layout=donut&cache_seconds=86400)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tj-guruvelli&icon=5&color=0)](https://visitcount.itsvg.in)
