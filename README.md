@@ -17,9 +17,12 @@
 
 
 # 📊GitHub Stats :
-![](https://github-stats-extended.vercel.app/api?username=tj-guruvelli&show_icons=true&theme=radical&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&cache_seconds=86400)
-
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=tj-guruvelli&theme=radical&hide_border=true&layout=donut&cache_seconds=86400)
+<a href="https://github-stats-extended.vercel.app/api?username=tj-guruvelli&theme=radical&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&bg_color=45,2ecc71,3498db">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=tj-guruvelli&theme=radical&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&bg_color=45,2ecc71,3498db" />
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=tj-guruvelli&theme=radical&hide_border=true&layout=donut&cache_seconds=86400">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tj-guruvelli&theme=radical&hide_border=true&layout=donut&cache_seconds=86400" />
+</a>
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=tj-guruvelli&icon=5&color=0)](https://visitcount.itsvg.in)
