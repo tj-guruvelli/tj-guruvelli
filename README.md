@@ -17,11 +17,11 @@
 
 
 # 📊GitHub Stats :
-<a href="https://github-stats-extended.vercel.app/api?username=tj-guruvelli&theme=radical&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&bg_color=45,2ecc71,3498db">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=tj-guruvelli&theme=radical&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&bg_color=45,2ecc71,3498db" />
+<a href="https://github-stats-extended.vercel.app/api?username=tj-guruvelli&theme=radical&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&bg_color=4a148c">
+  <img height=350 align="center" src="https://github-stats-extended.vercel.app/api?username=tj-guruvelli&theme=radical&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&bg_color=4a148c" />
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=tj-guruvelli&theme=radical&hide_border=true&layout=donut&cache_seconds=86400">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tj-guruvelli&theme=radical&hide_border=true&layout=donut&cache_seconds=86400" />
+  <img height=350 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tj-guruvelli&theme=radical&hide_border=true&layout=donut&cache_seconds=86400" />
 </a>
 
 ---
