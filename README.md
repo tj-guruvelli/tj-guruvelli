@@ -1,10 +1,6 @@
 # 💫About Me :
 - 👀 I’m interested in Data Science, Cloud Technology, DevOps, Cybersecurity, Web Development, Automotive, and AI
-- 📫 How to reach me: gguruvelli3@gatech.edu
-- 🏋🏽‍♂️ Hobbies: Weightlifting, Listening to music, Investing, Racing, Tennis, and Ping Pong 🎶🏓
 - 🎓 MS in Cybersecutiy at Georgia Institute of Technology
-- 🎓 Computer Science Major at Clemson University Minor in Cybersecurity
-- ⚡ Fun fact: I've lived in more than 10 states
 
 ---
 ## 🌐Socials
